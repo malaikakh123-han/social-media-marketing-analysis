@@ -58,6 +58,3 @@ The project explores:
 - `Social_Media_Marketing_Dataset.xlsx` — Excel analysis and dashboard
 - `screenshots/` — Dashboard and analysis screenshots
 
-## Purpose
-
-This project was created as part of my Data Analytics portfolio to demonstrate my ability to analyze business data and present findings using Excel.
